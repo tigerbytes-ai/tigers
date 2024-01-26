@@ -20,10 +20,14 @@
 </div>
 
 ## ✨ Demo
-Find more demos at [TigerBytes.AI](https://www.tigerbytes.ai/).
-- Sign up [waitlist](https://getwaitlist.com/waitlist/13018).
-- Schedule a [demo call](https://calendly.com/tigerbytes-ai/discovery).
-- Follow us [on Twitter](https://twitter.com/TigerBytesAI).
+👩‍💻 TigerRAG Demo: [Movie Recommendations](https://github.com/tigerbytes-ai/tigers/tree/main/TigerRAG/demos/movie_recs)
+
+🐯 Find more demos at [TigerBytes.AI](https://www.tigerbytes.ai/):
+- Sign up [waitlist](https://getwaitlist.com/waitlist/13018)
+- Schedule a [demo call](https://calendly.com/tigerbytes-ai/discovery)
+
+🥰 Keep in touch:
+- Follow us [on Twitter](https://twitter.com/TigerBytesAI)
 - Email us at founders@tigerbytes.ai
 
 
