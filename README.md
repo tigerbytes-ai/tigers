@@ -5,19 +5,7 @@
 <p align="center">
   🐅🚀<em>Domain-Specific Search Solutions using LLMs and KGs.</em>🚀🐅
 </p>
-<div align="center">    
-    <a href="https://twitter.com/TigerBytesAI">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TigerBytesAI?style=for-the-badge" height="20">
-    <a href="https://github.com/tigerbytes-ai/tigers">
-    <img alt="GitHub" src="https://img.shields.io/github/stars/tigerbytes-ai/tigers?style=for-the-badge&color=gold" height="20">
-    </a>
-    <a href="https://github.com/tigerbytes-ai/tigers/commits/main">
-    <img alt="GitHub" src="https://img.shields.io/github/last-commit/tigerbytes-ai/tigers/main?style=for-the-badge" height="20">
-    </a>
-    <a href="https://github.com/tigerbytes-ai/tigers/blob/main/README.md" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=license&message=Apache License 2.0&color=green&style=for-the-badge" alt="License" height="20">
-    </a>
-</div>
+
 
 ## ✨ Demo
 👩‍💻 TigerRAG Demo: [Movie Recommendations](https://github.com/tigerbytes-ai/tigers/tree/main/TigerRAG/demos/movie_recs)
