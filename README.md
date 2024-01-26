@@ -1,6 +1,6 @@
 # TigerBytes - Large Language Models Meet with Knowledge Graphs
 
-![image](https://github.com/tigerbytes-ai/tigers-private/assets/152054125/debdd017-d675-4638-8a91-c726da727a1e)
+![image](https://github.com/tigerbytes-ai/tigers/assets/152054125/e82d5c47-455e-4f0f-9a2f-b731e9704627)
 
 <p align="center">
   🐅🚀<em>Domain-Specific Search Solutions using LLMs and KGs.</em>🚀🐅
