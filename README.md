@@ -21,7 +21,9 @@
 
 ## ✨ Demo
 Find more demos at [TigerBytes.AI](https://www.tigerbytes.ai/).
-Sign up waitlist using this [Link](https://getwaitlist.com/waitlist/13018). 
+- Sign up waitlist [Here](https://getwaitlist.com/waitlist/13018).
+- Schedule a demo call [Here](https://calendly.com/tigerbytes-ai/discovery).
+- Email us at founders@tigerbytes.ai
 
 
 ## 🔬 Tech stack
